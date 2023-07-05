@@ -1,4 +1,3 @@
-```
 
 # Bem vindo ao meu projeto de portfólio.
 
@@ -15,5 +14,3 @@
 ### Philippe Maia
 
 ### Linkedin: https://www.linkedin.com/in/philippe-maia-8b03416a/
-
-```
