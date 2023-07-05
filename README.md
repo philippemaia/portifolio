@@ -1,7 +1,7 @@
 
 # Bem vindo ao meu projeto de portfólio.
 
-![image](https://user-images.githubusercontent.com/portifolioPhilippe.png)
+![image](/assets/portifolioPhilippe.png)
 
 ## Ferramentas utilizadas:
 
